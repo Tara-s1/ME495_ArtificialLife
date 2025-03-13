@@ -1,1 +1,1 @@
-# ME495_ArtificialLife
+# ME495: Artificial Life

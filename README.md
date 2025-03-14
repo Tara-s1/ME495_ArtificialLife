@@ -4,6 +4,11 @@
 
 This project explores how a creature can optimize the geometry of its legs to maximize forward speed (x-distance traveled in a given time) while minimizing mass or the number of particles.  
 
+
+
+## Want to Learn more? Watch an [short teaser] (https://youtu.be/b_BKzIsnkz4) here or longer [overview video] (https://youtu.be/kpFvqybfe1o)
+
+
 ## Approach  
 
 The code uses an evolutionary algorithm, where in each iteration:  
@@ -40,5 +45,4 @@ Navigate to the project repository and run:
 
 ```bash
 python3 final_project.py
-
 

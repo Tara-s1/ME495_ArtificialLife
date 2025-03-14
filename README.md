@@ -6,7 +6,7 @@ This project explores how a creature can optimize the geometry of its legs to ma
 
 
 
-Want to Learn more? Watch a [short teaser](https://youtu.be/b_BKzIsnkz4) here or [longer overview](https://youtu.be/kpFvqybfe1o) video here.
+Want to learn more? Watch a [short teaser](https://youtu.be/b_BKzIsnkz4) here or [longer overview](https://youtu.be/kpFvqybfe1o) video here.
 
 
 ## Approach  
